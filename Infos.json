@@ -1,0 +1,26 @@
+[
+    {
+        "Name" : "Name: Jay Andrey Amulong",
+        "Age" : "Age: 119",
+        "Gender" : "Gender: Male",
+        "Address" : "Address: Tokyo, Japan",
+        "Cellphone Number" : "Number: 09121212121",
+        "Civil Status" : "Civil Status: Single",
+        "Birth Place" : "Birth Place: Tokyo",
+        "Birth Date" : "Birth Date: January 1, 2033",
+        "Siblings" : "Siblings: 0",
+        "Height" : "Height: 7 foot 11 inches",
+        "Weight" : "Weight: 74kgs",
+        "Religion" :  "Religion: Catholic",
+        "Nationality" : "Nationality: Japanese",
+        "Dialect" : "Dialect: Hachijo",
+        "Father Name" : "Father's Name: Jay Clores Erinco",
+        "Father Occupation" : "Occupation: Superman",
+        "Mother Name" : "Mother's Name: Gerly Amulong Erinco",
+        "Mother Occupation" : "Occupation: Wonder Woman",
+        "Elementary" : "Elementary School: Princeton University",
+        "Junior" : "Junior High School: Yale University",
+        "Senior" : "Senior High School: Harvard University",
+        "College" : "College: Oxford University"
+    }
+]
